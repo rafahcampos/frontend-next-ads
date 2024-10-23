@@ -26,6 +26,7 @@ export default function Home() {
         React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality.[9][10] A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements. It was first launched on 29 May 2013.
         </p>
         <Link href="/dashboard"> Dashboard </Link>
+      
       </main>
 
       <Footer/>

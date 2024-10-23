@@ -7,7 +7,7 @@ export default function CardTicker({ cardTicker }) {
                 <p>{cardTicker.codigo}</p>
                 <p>{cardTicker.empresa}</p>
                 <p>{cardTicker.valor}</p>
-                <p>{cardTicker.valor}</p>
+                <p>{cardTicker.variacao}</p>
                 <p>{cardTicker.nAcoes}</p>
             </div>
         </div>
