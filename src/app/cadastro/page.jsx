@@ -5,7 +5,7 @@ import Header from "../components/Header"
 
 export default function Cadastro() {
 
-    const [nome, setNome] = useState('Teste')
+    const [nome, setNome] = useState('')
     const [email, setEmail] = useState('')
     const [pass, setPass] = useState('')
    
